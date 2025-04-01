@@ -1,4 +1,4 @@
-package job4j;
+package ru.job4j.tracker;
 
 public class Broken {
     private int sizeOfEmpty = 10;
